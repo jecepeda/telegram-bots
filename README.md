@@ -1,8 +1,4 @@
-# botsearchBooks
-This bot is used to search books from it-books.com.
+# bots
+This repository is used to show an example of telegram bots, using PyTelegramBotAPI and aiotg
 
-**Developed by** : @FridoxFL
-               @neverhope
-               @sir_people
-               @Edurolp
-## Bot username in **Telegram** @Librosadmin_bot
+## Bot username in **Telegram** for efficient_scraper is @Librosadmin_bot
