@@ -18,7 +18,7 @@ python-redis==0.0.6
 pytz==2016.4
 redis==2.10.5
 requests==2.5.3
-rsa==3.4.2
+rsa==4.1
 selenium==2.53.2
 simplejson==3.8.2
 six==1.10.0
