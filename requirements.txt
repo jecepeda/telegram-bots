@@ -9,7 +9,7 @@ lxml==3.6.0
 mechanize==0.2.5
 oauth2client==2.1.0
 pkg-resources==0.0.0
-py==1.4.31
+py==1.10.0
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
 pyTelegramBotAPI==1.4.2
