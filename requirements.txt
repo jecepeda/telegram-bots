@@ -5,7 +5,7 @@ crc16==0.1.1
 cssselect==0.9.1
 google-api-python-client==1.5.1
 httplib2==0.9.2
-lxml==3.6.0
+lxml==4.9.1
 mechanize==0.2.5
 oauth2client==2.1.0
 pkg-resources==0.0.0
